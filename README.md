@@ -3,7 +3,7 @@
 ## Contents
  - [Tech Stack](#stack)
  - [How to use it](#como-utilizarlo)
- - [Tech Debt](#comentarios)
+ - [Tech Debt](#tech-deb)
  
  ## Tech Stack
  
