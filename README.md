@@ -5,10 +5,10 @@
  - [How to use it](#como-utilizarlo)
  - [Tech Debt](#comentarios)
  
- ## [Tech Stack (#stack)
+ ## Tech Stack
  
  1. [Docker](https://www.docker.com/ 
- 2. Back Go 1.15
+ 2. Back Go 1.15 (#stack)
  3. Swagger with [Swag](https://github.com/swaggo/swag)
  4. Routing [Gorilla](https://github.com/gorilla)
  
