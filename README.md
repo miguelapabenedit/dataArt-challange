@@ -17,14 +17,14 @@
  ```sh
  $ go get -u https://github.com/miguelapabenedit/dataArt-challange
  ```
- 2.in the root execute 
- ```sh
- $ docker run -p 8080:5000 data-art-challange
- ```
- 2.in the root execute 
+  2.in the root execute 
  ```sh
  $ docker build . -t data-art-challange
   ```
+ 3.in the root execute 
+ ```sh
+ $ docker run -p 8080:5000 data-art-challange
+ ```
  4.Whait for docker to run and run swagger 
  ```sh
 http://localhost:8080/swagger/index.html
